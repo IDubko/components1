@@ -1,4 +1,3 @@
-import './app.modules.css';
 import styles from './app.module.css';
 import './index.css';
 
